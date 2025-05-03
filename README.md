@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm @narzullayevJS
+### 👋 Hi there! I'm Shahriyor
 
 🧠 **Backend Developer | Node.js & TypeScript Enthusiast | Clean Code Advocate**
 
